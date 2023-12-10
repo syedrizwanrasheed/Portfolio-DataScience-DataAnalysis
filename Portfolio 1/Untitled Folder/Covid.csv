@@ -1,0 +1,217 @@
+Date_reported,Country,New_cases,New_deaths
+04/01/2020,China,1,0
+13/01/2020,Thailand,5,0
+14/01/2020,Japan,5,0
+19/01/2020,Republic of Korea,5,0
+20/01/2020,United States of America,5,0
+23/01/2020,Singapore,5,0
+23/01/2020,Nepal,5,0
+24/01/2020,France,7,0
+24/01/2020,Viet Nam,6,0
+25/01/2020,Malaysia,7,0
+25/01/2020,Australia,7,0
+26/01/2020,Canada,5,0
+27/01/2020,Sri Lanka,5,0
+27/01/2020,Cambodia,5,0
+28/01/2020,Germany,1,0
+29/01/2020,Italy,6,0
+29/01/2020,Finland,5,0
+29/01/2020,United Arab Emirates,8,0
+30/01/2020,India,5,0
+30/01/2020,Philippines,5,0
+31/01/2020,Sweden,5,0
+31/01/2020,Russian Federation,6,0
+01/02/2020,The United Kingdom,2,0
+02/02/2020,Spain,5,0
+04/02/2020,Belgium,1,0
+05/02/2020,Other,14,0
+14/02/2020,Egypt,5,0
+19/02/2020,Iran (Islamic Republic of),6,2
+21/02/2020,Israel,5,0
+21/02/2020,Lebanon,5,0
+24/02/2020,Oman,6,0
+24/02/2020,Bahrain,6,0
+24/02/2020,Switzerland,5,0
+24/02/2020,Iraq,5,0
+24/02/2020,Afghanistan,5,0
+24/02/2020,Kuwait,9,0
+25/02/2020,Algeria,5,0
+26/02/2020,Austria,2,0
+26/02/2020,Romania,5,0
+26/02/2020,Norway,5,0
+26/02/2020,North Macedonia,5,0
+26/02/2020,Croatia,1,0
+26/02/2020,Georgia,5,0
+26/02/2020,Pakistan,6,0
+26/02/2020,Brazil,5,0
+27/02/2020,Denmark,5,0
+27/02/2020,Greece,1,0
+27/02/2020,Estonia,5,0
+28/02/2020,Nigeria,5,0
+28/02/2020,Lithuania,5,0
+28/02/2020,New Zealand,5,0
+28/02/2020,Mexico,6,0
+28/02/2020,Netherlands,1,0
+28/02/2020,San Marino,5,0
+29/02/2020,Ecuador,5,0
+29/02/2020,Monaco,5,0
+29/02/2020,Qatar,5,0
+29/02/2020,Azerbaijan,7,0
+29/02/2020,Belarus,6,0
+01/03/2020,Armenia,5,0
+01/03/2020,Czechia,7,0
+01/03/2020,Ireland,1,0
+01/03/2020,Iceland,6,0
+01/03/2020,Luxembourg,5,0
+02/03/2020,Morocco,5,0
+02/03/2020,Saint Barthélemy,5,0
+02/03/2020,Portugal,6,0
+02/03/2020,Tunisia,5,0
+02/03/2020,Saint Martin,6,0
+02/03/2020,Indonesia,6,0
+02/03/2020,Jordan,5,0
+02/03/2020,Dominican Republic,5,0
+02/03/2020,Latvia,5,0
+02/03/2020,Saudi Arabia,5,0
+02/03/2020,Senegal,5,0
+03/03/2020,Andorra,1,0
+03/03/2020,Argentina,5,0
+03/03/2020,Ukraine,5,0
+03/03/2020,Gibraltar,5,0
+03/03/2020,Chile,5,0
+04/03/2020,Poland,1,0
+04/03/2020,Slovenia,5,0
+05/03/2020,South Africa,5,0
+05/03/2020,Bosnia and Herzegovina,6,0
+05/03/2020,"occupied Palestinian territory, including east Jerusalem",11,0
+05/03/2020,Liechtenstein,5,0
+05/03/2020,Hungary,2,0
+06/03/2020,Faroe Islands,5,0
+06/03/2020,Holy See,5,0
+06/03/2020,Serbia,5,0
+06/03/2020,Cameroon,6,0
+06/03/2020,Slovakia,5,0
+06/03/2020,Colombia,5,0
+06/03/2020,Bhutan,5,0
+07/03/2020,Martinique,6,0
+07/03/2020,Togo,5,0
+07/03/2020,French Guiana,9,0
+07/03/2020,Maldives,6,0
+07/03/2020,Malta,7,0
+07/03/2020,Peru,10,0
+07/03/2020,Republic of Moldova,5,0
+08/03/2020,Costa Rica,9,0
+08/03/2020,Paraguay,5,0
+08/03/2020,Bangladesh,7,0
+08/03/2020,Bulgaria,2,0
+09/03/2020,Albania,6,0
+09/03/2020,Guernsey,5,0
+09/03/2020,Cyprus,6,0
+10/03/2020,Panama,5,0
+10/03/2020,Brunei Darussalam,5,0
+10/03/2020,Mongolia,5,0
+10/03/2020,Jamaica,5,0
+11/03/2020,Turkey,5,0
+11/03/2020,Democratic Republic of the Congo,5,0
+11/03/2020,Burkina Faso,6,0
+11/03/2020,Bolivia (Plurinational State of),6,0
+12/03/2020,Côte d’Ivoire,5,0
+12/03/2020,Jersey,6,0
+12/03/2020,French Polynesia,5,0
+12/03/2020,Honduras,6,0
+13/03/2020,Guyana,5,1
+13/03/2020,Saint Vincent and the Grenadines,5,0
+13/03/2020,Cayman Islands,5,0
+13/03/2020,Cuba,8,0
+13/03/2020,United States Virgin Islands,5,0
+13/03/2020,Curaçao,5,0
+13/03/2020,Réunion,7,0
+13/03/2020,Antigua and Barbuda,5,0
+13/03/2020,Trinidad and Tobago,5,0
+13/03/2020,Kosovo[1],6,0
+14/03/2020,Central African Republic,5,0
+14/03/2020,Ghana,5,0
+14/03/2020,Guadeloupe,7,0
+14/03/2020,Kazakhstan,6,0
+14/03/2020,Gabon,5,0
+14/03/2020,Guinea,5,0
+14/03/2020,Kenya,5,0
+14/03/2020,Sudan,5,0
+14/03/2020,Namibia,6,0
+14/03/2020,Puerto Rico,7,0
+14/03/2020,Venezuela (Bolivarian Republic of),6,0
+14/03/2020,Mayotte,5,0
+14/03/2020,Equatorial Guinea,5,0
+14/03/2020,Eswatini,5,0
+14/03/2020,Ethiopia,5,0
+14/03/2020,Mauritania,5,0
+15/03/2020,Uruguay,8,0
+15/03/2020,Congo,5,0
+15/03/2020,Seychelles,6,0
+15/03/2020,Suriname,5,0
+15/03/2020,Guatemala,5,1
+15/03/2020,Saint Lucia,6,0
+15/03/2020,Rwanda,9,0
+16/03/2020,Somalia,5,0
+16/03/2020,Uzbekistan,8,0
+17/03/2020,United Republic of Tanzania,5,0
+17/03/2020,Benin,5,0
+17/03/2020,Guam,7,0
+17/03/2020,Aruba,6,0
+17/03/2020,Liberia,5,0
+17/03/2020,Montenegro,6,0
+17/03/2020,Bahamas,5,0
+18/03/2020,Sint Maarten,5,0
+18/03/2020,Bermuda,6,0
+18/03/2020,Montserrat,5,0
+18/03/2020,Djibouti,5,0
+18/03/2020,Mauritius,7,0
+18/03/2020,Kyrgyzstan,7,0
+18/03/2020,Gambia,5,0
+18/03/2020,Barbados,6,0
+18/03/2020,Greenland,6,0
+18/03/2020,Zambia,6,0
+19/03/2020,Nicaragua,1,0
+19/03/2020,New Caledonia,2,0
+19/03/2020,Niger,5,0
+19/03/2020,Chad,5,0
+19/03/2020,Fiji,1,0
+19/03/2020,El Salvador,1,0
+20/03/2020,Haiti,2,0
+20/03/2020,Cabo Verde,1,0
+20/03/2020,Papua New Guinea,1,0
+20/03/2020,Zimbabwe,1,0
+20/03/2020,Isle of Man,1,0
+20/03/2020,Timor-Leste,1,0
+21/03/2020,Uganda,1,0
+21/03/2020,Eritrea,1,0
+21/03/2020,Angola,2,0
+21/03/2020,Madagascar,3,0
+23/03/2020,Grenada,1,0
+23/03/2020,Syrian Arab Republic,1,0
+23/03/2020,Mozambique,1,0
+24/03/2020,Dominica,2,0
+24/03/2020,Belize,1,0
+24/03/2020,Lao People's Democratic Republic,2,0
+24/03/2020,Myanmar,2,0
+24/03/2020,Turks and Caicos Islands,1,0
+25/03/2020,Libya,1,0
+26/03/2020,British Virgin Islands,2,0
+26/03/2020,Anguilla,2,0
+26/03/2020,Mali,2,0
+26/03/2020,Guinea-Bissau,2,0
+26/03/2020,Saint Kitts and Nevis,2,0
+29/03/2020,Northern Mariana Islands (Commonwealth of the),2,0
+01/04/2020,Sierra Leone,1,0
+01/04/2020,Burundi,2,0
+01/04/2020,Botswana,3,0
+03/04/2020,Malawi,3,0
+04/04/2020,"Bonaire, Sint Eustatius and Saba",2,0
+05/04/2020,Falkland Islands (Malvinas),1,0
+06/04/2020,Sao Tome and Principe,4,0
+06/04/2020,South Sudan,1,0
+08/04/2020,Saint Pierre and Miquelon,1,0
+10/04/2020,Yemen,1,0
+01/05/2020,Comoros,1,0
+01/05/2020,Tajikistan,15,0
+14/05/2020,Lesotho,1,0
